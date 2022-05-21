@@ -11,11 +11,11 @@ const { connect } = require('net')
 
 exports.pselRaccoon = (req, res) => {
 
-  var auth = req.headers["psel_key"] == 'psel_2022_05' ? "true" : "false"
+  var auth = req.headers["psel_key"]
   var query = req.url.split('/?action=')[1]
   var infoSec = readJson()
   
-  if(auth){
+  if(auth === 'psel_2022_05'){
 
     switch (query){
       case 'cpf':
@@ -58,14 +58,14 @@ exports.pselRaccoon = (req, res) => {
         var cont = 0
         for(i = 0; i < arr.length; i++){
             var cpf = arr[i].cpf
-            cont += CPFisValid(cpf) == true ? 1 : 0
+            cont += CPFisValid(cpf) === true ? 1 : 0
         }
         function CPFisValid(cpf){
             if (typeof cpf !== 'string') return false 
             cpf = cpf.replace(/[^\d]+/g, '') // Altera caracteres especiais padrões de CPF para campos vazios
 
             //https://gist.github.com/joaohcrangel/8bd48bcc40b9db63bef7201143303937 peguei de um jeito mais simplificado nesse topico
-            if (cpf.length == 11 || !cpf.match(/(\d)\1{10}/)){//Verifica se CPF tem 11 digitos e se possui digitos repetidos({10}) com REGEX
+            if (cpf.length === 11 || !cpf.match(/(\d)\1{10}/)){//Verifica se CPF tem 11 digitos e se possui digitos repetidos({10}) com REGEX
               cpf = cpf.split('').map(el => +el)
                 const rest = (count) => (cpf.slice(0, count-12)
                     .reduce( (soma, el, index) => (soma + el * (count-index)), 0 )*10) % 11 % 10 //.reduce faz a soma do array e a arrow function retorna o resto do primeiro e segundo digito verificador
@@ -115,7 +115,7 @@ exports.pselRaccoon = (req, res) => {
             else return 0
             }
         )
-        return infoSec.find(function(e) {return e.salario == arr[arr.length - 2]}).nome
+        return infoSec.find(function(e) {return e.salario === arr[arr.length - 2]}).nome
     }
 
   function salarySum(){
@@ -126,7 +126,7 @@ exports.pselRaccoon = (req, res) => {
   }
 
   function stalker(){
-    var fStalker = infoSec.filter(function(e) {return e.cargo == 'COORDENADOR' && e.estado_civil == 'SOLTEIRO'})
+    var fStalker = infoSec.filter(function(e) {return e.cargo === 'COORDENADOR' && e.estado_civil === 'SOLTEIRO'})
     var stalkerPayload = []
 
     for(i = 0; i < fStalker.length; i++){
@@ -140,7 +140,7 @@ exports.pselRaccoon = (req, res) => {
   }
 
   function whoIsBatman(){
-    var batDados = infoSec.find(function(e) {return e.nome == 'Bruce Wayne'})
+    var batDados = infoSec.find(function(e) {return e.nome === 'Bruce Wayne'})
     var batPayload = {
       'salario' : batDados.salario,
       'cpf' : batDados.cpf
