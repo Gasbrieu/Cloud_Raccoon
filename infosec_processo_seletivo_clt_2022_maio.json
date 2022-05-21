@@ -1,0 +1,527 @@
+[
+  {
+    "nome": "Acacio Almeyda",
+    "cpf": "447.221.968-93",
+    "salario": 7795,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Adélia Noronha",
+    "cpf": "456.798.588-51",
+    "salario": 5593,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Almeno Casqueira",
+    "cpf": "384.257.338-39",
+    "salario": 1777,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Aníbal Sabrosa",
+    "cpf": "379.021.748-40",
+    "salario": 3309,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Araribóia Cezimbra",
+    "cpf": "474.109.768-45",
+    "salario": 3076,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Arcidres Giménez",
+    "cpf": "435.436.238-42",
+    "salario": 3091,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Bartolomeu Hilário",
+    "cpf": "339.314.668-84",
+    "salario": 3984,
+    "cargo": "COORDENADOR",
+    "estado_civil": "VIÚVO"
+  },
+  {
+    "nome": "Belmifer Camelo",
+    "cpf": "476.024.278-31",
+    "salario": 3686,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Brites Paes",
+    "cpf": "402.741.698-86",
+    "salario": 7549,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Brites Paula",
+    "cpf": "452.164.748-03",
+    "salario": 2571,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Bruce Wayne",
+    "cpf": "465.869.618-58",
+    "salario": 101101.01,
+    "cargo": "DIRETOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Bruna Juruna",
+    "cpf": "513.080.058-30",
+    "salario": 8986,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Cosme Cezimbra",
+    "cpf": "478.357.578-93",
+    "salario": 3637,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Cristiano Meira",
+    "cpf": "402.741.698-86",
+    "salario": 2940,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Diana Silvera",
+    "cpf": "474.340.068-62",
+    "salario": 6538,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Élvio Tristán",
+    "cpf": "460.814.268-23",
+    "salario": 6259,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Estela Quintas",
+    "cpf": "353.421.218-50",
+    "salario": 3196,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Eusébio Cerqueira",
+    "cpf": "047.013.653-78",
+    "salario": 7287,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Fabiana Peroba",
+    "cpf": "425.682.388-36",
+    "salario": 3550,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Fábio Gomide",
+    "cpf": "417.118.028-75",
+    "salario": 9173,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Faustino Siqueira",
+    "cpf": "443.849.308-01",
+    "salario": 8391,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Feliciana Mena",
+    "cpf": "464.795.698-90",
+    "salario": 5642,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Fernanda Cambaúva",
+    "cpf": "454.498.558-77",
+    "salario": 3681,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Filipa Covelhã",
+    "cpf": "409.471.058-24",
+    "salario": 6201,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Flora Cidreira",
+    "cpf": "431.299.048-40",
+    "salario": 6889,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Florêncio Casalinho",
+    "cpf": "431.662.448-24",
+    "salario": 7643,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Frutuoso Assumpção",
+    "cpf": "438.749.658-48",
+    "salario": 5122,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Gedeão Francia",
+    "cpf": "419.099.398-03",
+    "salario": 3666,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Gisela Carballo",
+    "cpf": "406.859.068-09",
+    "salario": 2448,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Gustavo Teixeira",
+    "cpf": "489.856.038-50",
+    "salario": 4894,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Guterre Morais",
+    "cpf": "469.337.848-86",
+    "salario": 7252,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Henrique Ataíde",
+    "cpf": "448.724.388-25",
+    "salario": 3306,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Honório Jordão",
+    "cpf": "317.478.058-66",
+    "salario": 4035,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Horácio Aquino",
+    "cpf": "454.386.828-52",
+    "salario": 4411,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Humberto Baranda",
+    "cpf": "475.181.788-42",
+    "salario": 9592,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Ildefonso Negrão",
+    "cpf": "433.957.898-37",
+    "salario": 1634,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Ivo Galván",
+    "cpf": "407.435.578-75",
+    "salario": 4048,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Jamari León",
+    "cpf": "458.085.158-74",
+    "salario": 9862,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Jorge Tibiriçá",
+    "cpf": "455.911.148-06",
+    "salario": 1780,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Josefa Igrejas",
+    "cpf": "429.225.568-75",
+    "salario": 5313,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Lara Vilaça",
+    "cpf": "484.895.028-70",
+    "salario": 2003,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Leonel Campello",
+    "cpf": "439.007.168-89",
+    "salario": 4345,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Mileide Malafaia",
+    "cpf": "391.315.678-00",
+    "salario": 7333,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Moema Veríssimo",
+    "cpf": "440.712.468-71",
+    "salario": 8713,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Noêmia Antas",
+    "cpf": "490.595.018-02",
+    "salario": 3882,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Ofélia Maia",
+    "cpf": "421.113.938-00",
+    "salario": 7171,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Olavo Soares",
+    "cpf": "389.904.598-00",
+    "salario": 1801,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Ordonho Macedo",
+    "cpf": "389.904.598-00",
+    "salario": 9327,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Palmira Velasco",
+    "cpf": "490.242.588-20",
+    "salario": 1714,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Parcidio Frade",
+    "cpf": "455.480.198-56",
+    "salario": 3052,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Patrícia Chávez",
+    "cpf": "480.183.448-50",
+    "salario": 3344,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Paulino Frois",
+    "cpf": "487.971.868-80",
+    "salario": 6366,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Peri Lucena",
+    "cpf": "440.554.688-65",
+    "salario": 3623,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Plínio Lustosa",
+    "cpf": "401.841.518-48",
+    "salario": 3830,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Regina Marinho",
+    "cpf": "476.314.898-23",
+    "salario": 2361,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Remo Feitosa",
+    "cpf": "476.232.968-17",
+    "salario": 8364,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Renan Beça",
+    "cpf": "458.208.228-97",
+    "salario": 2249,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Roberto Quaresma",
+    "cpf": "396.811.748-44",
+    "salario": 2625,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Rodolfo Rúa",
+    "cpf": "491.037.628-31",
+    "salario": 3300,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Roque Ramalho",
+    "cpf": "450.998.678-55",
+    "salario": 6200,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Rosalinda Faustino",
+    "cpf": "449.196.098-41",
+    "salario": 6743,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Rosana Valerio",
+    "cpf": "474.744.778-40",
+    "salario": 7395,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Rufus Prado",
+    "cpf": "459.780.458-79",
+    "salario": 8209,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Severino Capucho",
+    "cpf": "463.808.458-36",
+    "salario": 9067,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Siquenique Laranjeira",
+    "cpf": "479.132.598-25",
+    "salario": 3027,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Sónia Grillo",
+    "cpf": "435.488.518-27",
+    "salario": 7956,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Susana Norões",
+    "cpf": "048.457.435-31",
+    "salario": 8752,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Tarrataca Macedo",
+    "cpf": "478.985.278-44",
+    "salario": 7186,
+    "cargo": "COORDENADOR",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Ulisses Cunha",
+    "cpf": "470.416.788-73",
+    "salario": 8914,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Valdemar Pereira",
+    "cpf": "450.958.528-45",
+    "salario": 3218,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Valentina Casquero",
+    "cpf": "432.773.368-75",
+    "salario": 8539,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Virgílio Severiano",
+    "cpf": "322.858.368-64",
+    "salario": 9058,
+    "cargo": "GERENTE",
+    "estado_civil": "SOLTEIRO"
+  },
+  {
+    "nome": "Ximeno Conceição",
+    "cpf": "414.559.508-40",
+    "salario": 5310,
+    "cargo": "COORDENADOR",
+    "estado_civil": "CASADO"
+  },
+  {
+    "nome": "Zoraide Valim",
+    "cpf": "476.279.158-05",
+    "salario": 55321,
+    "cargo": "DIRETOR",
+    "estado_civil": "AMASIADO"
+  },
+  {
+    "nome": "Zuleide Viveiros",
+    "cpf": "420.312.878-18",
+    "salario": 1904,
+    "cargo": "ANALISTA",
+    "estado_civil": "CASADO"
+  }
+]
